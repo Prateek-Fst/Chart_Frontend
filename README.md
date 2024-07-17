@@ -6,7 +6,7 @@ This project is a data visualization dashboard built using React.js and Chart.js
 
 ## Clone the repository:
 ```
-git clone [<repository-url>](https://github.com/Prateek-Fst/Chart_Frontend.git)]
+git clone https://github.com/Prateek-Fst/Chart_Frontend.git
 cd dashboard
 ```
 ## Install dependencies:
