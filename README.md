@@ -15,6 +15,8 @@ cd dashboard
 npm install
 npm i chart.js
 ```
+## Connection to backend
+There is repositiry called Chart_Bcakend in my accont clone that repo and connect your code with your mongoDB account
 ## Running the Application
 
 ## To start the frontend server:
