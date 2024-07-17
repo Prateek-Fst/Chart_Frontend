@@ -13,6 +13,7 @@ cd dashboard
 
 ```
 npm install
+npm i chart.js
 ```
 ## Running the Application
 
